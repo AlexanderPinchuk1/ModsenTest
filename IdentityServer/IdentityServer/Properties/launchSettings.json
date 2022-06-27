@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "IdentityServer": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:7777",
+      "dotnetRunMessages": true
+    }
+  }
+}
